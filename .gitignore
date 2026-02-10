@@ -1,0 +1,6 @@
+
+data/*.csv
+checkpoint/
+__pycache__/
+*.pt
+*.pkl
