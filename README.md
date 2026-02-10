@@ -51,3 +51,15 @@ Matplotlib
 Streamlit
 
 
+# Train the model
+
+```
+python train.py
+```
+# Running Inference 
+
+```
+python app.py
+```
+
+
